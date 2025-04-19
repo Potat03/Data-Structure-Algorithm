@@ -1,0 +1,6 @@
+{
+    "CourseFilePath": "tw_courseList.dat"
+	"AssignmentRubricsFilePath": "tw_rubrics.dat"
+	"AssignmentTeamFilePath": "tw_assignmentTeam.dat"
+	"TutorialGroupFilePath": "tw_tutorialGroupList.dat"
+}

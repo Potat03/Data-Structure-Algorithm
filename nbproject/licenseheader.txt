@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}@author Loh Thiam Wei 
+${licensePrefix}@ModuleHandle AssignmentAssessment ${licensePrefix}
+${licensePrefix}This class belongs to Assignment Assessment Subsystem ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
